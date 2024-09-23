@@ -16,7 +16,7 @@
   position: fixed;
   top: 0;
   left: 0;
-  background: #21201f;
+  background: #c9d9e5;
   padding: 0.5rem 1rem;
   z-index: 60;
   display: flex;
@@ -77,7 +77,7 @@
 .main-nav__item a,
 .mobile-nav__item a {
   text-decoration: none;
-  color: #0e4f1f;
+  color: #2a384c;
   font-weight: bold;
   padding: 0.2rem 0;
 }
@@ -94,8 +94,8 @@
 
 .main-nav__item--cta a,
 .mobile-nav__item--cta a {
-  color: white;
-  background: #ff1b68;
+  color: #a0b2c2;
+  background: #2a384c;
   padding: 0.5rem 1rem;
   border-radius: 8px;
 }
@@ -104,8 +104,8 @@
 .main-nav__item--cta a:active,
 .mobile-nav__item--cta a:hover,
 .mobile-nav__item--cta a:active {
-  color: #ff1b68;
-  background: white;
+  color: #2a384c;
+  background: #a0b2c2;
   border: none;
 }
 
